@@ -8,3 +8,11 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     color: lightskyblue;
 }
+
+.classselector {
+    text-align: center;
+    font-style: italic;
+    font-size:medium ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightskyblue;
+}
