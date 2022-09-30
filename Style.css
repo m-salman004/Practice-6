@@ -74,3 +74,6 @@ a {
 .textUppercase{
     text-transform: uppercase;
 }
+.textLowercase{
+    text-transform: lowercase;
+}
