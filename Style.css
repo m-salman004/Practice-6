@@ -71,3 +71,6 @@ a {
 .textCapitalize {
     text-transform: capitalize;
 }
+.textUppercase{
+    text-transform: uppercase;
+}
