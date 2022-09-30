@@ -63,3 +63,8 @@
 .textAlignlast {
     text-align-last: left;
 }
+a {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
