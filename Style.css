@@ -77,3 +77,6 @@ a {
 .textLowercase{
     text-transform: lowercase;
 }
+.textIndent{
+    text-indent: 100px;
+}
