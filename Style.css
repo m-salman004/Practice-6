@@ -73,6 +73,7 @@ a {
     text-transform: capitalize;
     line-height: 40px;
     word-spacing: 20px;
+    font-family: serif;
 }
 .textUppercase{
     text-transform: uppercase;
