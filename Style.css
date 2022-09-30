@@ -48,3 +48,12 @@
     background-color: aliceblue;
     color: aquamarine;
 }
+.textCenter {
+    text-align: center;
+}
+.textLeft {
+    text-align: left;
+}
+.textRight {
+    text-align: right;
+}
