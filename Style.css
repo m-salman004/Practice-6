@@ -71,6 +71,7 @@ a {
 }
 .textCapitalize {
     text-transform: capitalize;
+    line-height: 40px;
 }
 .textUppercase{
     text-transform: uppercase;
