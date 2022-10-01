@@ -111,5 +111,9 @@ a:link {
 /* visited link */
 a:visited {
     color: green;
+}
+/* mouse over link */
+a:hover {
+    color: rgb(67, 4, 35);
+    text-decoration: underline;
   }
-
