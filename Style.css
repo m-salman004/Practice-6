@@ -94,12 +94,12 @@ a {
 .fontStyle {
     font-style: normal;
 }
-.fontSize {
-    font-size: 16px;
-}
 .fontVariant {
     font-variant: small-caps;
 }
 .fontNormal {
     font-variant: normal;
+}
+.fontSize {
+    font-size: 2em;                     
 }
