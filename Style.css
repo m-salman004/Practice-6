@@ -108,4 +108,8 @@ a:link {
     text-decoration: none;
     color: red;
 }
+/* visited link */
+a:visited {
+    color: green;
+  }
 
