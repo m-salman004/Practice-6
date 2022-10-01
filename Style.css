@@ -120,3 +120,8 @@ a:hover {
 /* selected link */
 a:active {
     color: rgb(175, 227, 18);
+}
+ul {
+   list-style-type: decimal-leading-zero;
+ 
+}
