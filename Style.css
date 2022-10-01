@@ -122,6 +122,7 @@ a:active {
     color: rgb(175, 227, 18);
 }
 ul {
-   list-style-type: decimal-leading-zero;
- 
+   /* list-style-type: decimal-leading-zero; */
+   list-style-position: outside;
+   list-style-position: inside;
 }
