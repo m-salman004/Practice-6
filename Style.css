@@ -97,3 +97,6 @@ a {
 .fontSize {
     font-size: 16px;
 }
+.fontVariant {
+    font-variant: small-caps;
+}
