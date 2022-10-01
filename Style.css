@@ -100,3 +100,6 @@ a {
 .fontVariant {
     font-variant: small-caps;
 }
+.fontNormal {
+    font-variant: normal;
+}
