@@ -116,4 +116,7 @@ a:visited {
 a:hover {
     color: rgb(67, 4, 35);
     text-decoration: underline;
-  }
+}
+/* selected link */
+a:active {
+    color: rgb(175, 227, 18);
