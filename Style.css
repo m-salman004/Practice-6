@@ -64,12 +64,12 @@
 .textAlignlast {
     text-align-last: left;
 }
-a {
+/* a {
     text-decoration: none;
     color: green;
     font-weight: bold;
     letter-spacing: 20px;
-}
+} */
 .textCapitalize {
     text-transform: capitalize;
     line-height: 40px;
@@ -103,3 +103,9 @@ a {
 .fontSize {
     font-size: 2em;                     
 }
+/* unvisited link */
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
