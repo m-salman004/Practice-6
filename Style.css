@@ -126,3 +126,13 @@ ul {
    list-style-position: outside;
    list-style-position: inside;
 }
+table, 
+th, 
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+} 
+table {
+    border-collapse: collapse;
+}
