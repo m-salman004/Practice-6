@@ -44,7 +44,7 @@
     padding: 10px 15px 20px 25px;
 } */ 
 
-/* @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&family=Reem+Kufi+Ink&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&family=Reem+Kufi+Ink&display=swap');
 .Text {
     background-color: aliceblue;
     color: aquamarine;
@@ -64,20 +64,20 @@
 .textAlignlast {
     text-align-last: left;
 }
-/* a {
+ a {
     text-decoration: none;
     color: green;
     font-weight: bold;
     letter-spacing: 20px;
-} */
-/* .textCapitalize { */
-    /* text-transform: capitalize;
+} 
+.textCapitalize { 
+     text-transform: capitalize;
     line-height: 40px;
     word-spacing: 20px;
     font-family: 'Bungee Spice', cursive;
 
-} */
-/* .textUppercase{
+} 
+.textUppercase{
     text-transform: uppercase;
 }
 .textLowercase{
@@ -102,30 +102,30 @@
 }
 .fontSize {
     font-size: 2em;                     
-} */
+}
 /* unvisited link */
-/* a:link {
+ a:link {
     text-decoration: none;
     color: red;
-} */
+} 
 /* visited link */
-/* a:visited {
+a:visited {
     color: green;
-} */
+} 
 /* mouse over link */
-/* a:hover {
+a:hover {
     color: rgb(67, 4, 35);
     text-decoration: underline;
-} */
+} 
 /* selected link */
-/* a:active {
+a:active {
     color: rgb(175, 227, 18);
 } */
-/* ul { */
+ ul { 
    /* list-style-type: decimal-leading-zero; */
-   /* list-style-position: outside;
-   list-style-position: inside; */
-/* }
+   list-style-position: outside;
+   list-style-position: inside;
+}
 table, 
 th, 
 td {
@@ -135,7 +135,7 @@ td {
 } 
 table {
     border-collapse: collapse;
-} */
+} 
 li {
-    display: block;
+    display: none;
 }
