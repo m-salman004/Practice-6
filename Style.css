@@ -137,5 +137,10 @@ table {
     border-collapse: collapse;
 } 
 li {
-    display: none;
+    display: inline;
+}
+.text1 {
+    width: 500px;
+    margin: auto;
+    border: 5px solid gray;
 }
