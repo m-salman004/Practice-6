@@ -153,6 +153,7 @@ li {
     border: 10px solid grey;
     margin: auto;
     width: auto;
+    position: relative;
 }
 .parent-box {
     text-align: center;
@@ -182,4 +183,11 @@ li {
     width: auto;
     bottom: 20px;
     right: 25px;
+}
+.div-absolute {
+    border: 9px solid rgb(233, 139, 25);
+   position: absolute;
+   background-color: green;
+   left: 20%;
+   bottom: 20%;
 }
