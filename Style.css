@@ -149,3 +149,17 @@ li {
     margin: auto;
     border: 5px solid gray;
 }
+.parent-box {
+    text-align: center;
+    color: gray;
+    border: 10px solid grey;
+}
+.div-static {
+    border: 9px solid rgb(233, 139, 25);
+    position: static;
+    margin: 55px;
+    width: auto;
+    padding: 10px;
+    left: 555px;
+
+}
