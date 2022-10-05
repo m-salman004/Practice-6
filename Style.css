@@ -181,9 +181,9 @@ li {
     border: 9px solid rgb(233, 139, 25);
     position: fixed;
     margin: 55px;
-    width: auto;
+    width: auto; 
     bottom: 20px;
-    right: 25px;
+    right: 25px; 
 }
 .div-absolute {
     border: 9px solid rgb(233, 139, 25);
@@ -197,6 +197,13 @@ li {
    position: sticky;
    background-color: royalblue;
    top: 0%;
-   left: 35px;
-  
+   /* left: 35px;  */
 }
+.z-index {
+    position: absolute;
+}
+img {
+    position: absolute;
+    z-index: -100;
+  }
+
