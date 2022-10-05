@@ -154,6 +154,7 @@ li {
     margin: auto;
     width: auto;
     position: relative;
+    height: 100vh;
 }
 .parent-box {
     text-align: center;
@@ -190,4 +191,12 @@ li {
    background-color: green;
    left: 20%;
    bottom: 20%;
+}
+.div-sticky {
+    border: 9px solid rgb(233, 139, 25);
+   position: sticky;
+   background-color: royalblue;
+   top: 0%;
+   left: 35px;
+  
 }
