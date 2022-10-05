@@ -149,10 +149,14 @@ li {
     margin: auto;
     border: 5px solid gray;
 }
+.container5 {
+    border: 10px solid grey;
+    margin: auto;
+    width: auto;
+}
 .parent-box {
     text-align: center;
     color: gray;
-    border: 10px solid grey;
 }
 .div-static {
     border: 9px solid rgb(233, 139, 25);
@@ -170,4 +174,12 @@ li {
     padding: 10px;
     left:  55px;
     bottom: 25px;
+}
+.div-fixed {
+    border: 9px solid rgb(233, 139, 25);
+    position: fixed;
+    margin: 55px;
+    width: auto;
+    bottom: 20px;
+    right: 25px;
 }
