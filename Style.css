@@ -206,15 +206,14 @@ img {
     position: absolute;
     z-index: -100;
   }
-/* #over-flow {
+#over-flow {
     text-align: center;
-    color: grey;
-    font-size: xx-large;
-} */
+}
 .visible {
     border: 1px solid brown;
     background-color:ghostwhite ;
     width: 200px;
     height: 98px;
-    overflow-x: visible;
+    overflow: auto;
+    margin-left: 555px
 }
