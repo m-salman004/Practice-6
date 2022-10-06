@@ -179,7 +179,7 @@ li {
 }
 .div-fixed {
     border: 9px solid rgb(233, 139, 25);
-    position: fixed;
+    /* position: fixed; */
     margin: 55px;
     width: auto; 
     bottom: 20px;
@@ -206,4 +206,15 @@ img {
     position: absolute;
     z-index: -100;
   }
+/* #over-flow {
+    text-align: center;
+    color: grey;
+    font-size: xx-large;
+} */
+.visible {
+    border: 1px solid brown;
+    background-color:ghostwhite ;
+    width: 200px;
+    height: 98px;
 
+}
