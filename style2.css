@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+.boxes {
+   padding-left: 115px;
+}
 .box {
     float: left;
     width: 25%;
@@ -13,6 +16,7 @@ p {
     text-align: center;
 }
 .box:hover { background-color: antiquewhite;}
+
 /* img {
     float: right;
 

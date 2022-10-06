@@ -217,3 +217,8 @@ img {
     overflow: auto;
     margin-left: 555px
 }
+.a {
+    background-color: royalblue;
+    display: inline;
+    border: 5px solid black;
+}
