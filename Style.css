@@ -216,5 +216,5 @@ img {
     background-color:ghostwhite ;
     width: 200px;
     height: 98px;
-    overflow: auto;
+    overflow-y: hidden;
 }
