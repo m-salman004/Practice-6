@@ -222,3 +222,11 @@ img {
     display: inline;
     border: 5px solid black;
 }
+.b {
+    background-color: royalblue;
+    display: inline-block;
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+}
