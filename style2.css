@@ -12,7 +12,7 @@ h3,
 p {
     text-align: center;
 }
-
+.box:hover { background-color: antiquewhite;}
 /* img {
     float: right;
 
