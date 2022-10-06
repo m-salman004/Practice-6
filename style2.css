@@ -3,7 +3,7 @@
 }
 .box {
     float: left;
-    width: 33.33%;
+    width: 25%;
     padding: 50px;
     border: 5px solid royalblue;
     margin: 20px;
@@ -12,6 +12,7 @@ h3,
 p {
     text-align: center;
 }
+
 /* img {
     float: right;
 
