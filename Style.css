@@ -240,9 +240,11 @@ img {
 }
 .inlineBlock {
     background-color: bisque;
-    width: 500px;
+    width: 90%;
     text-align: center;
     text-decoration: none;
+    margin: auto;
+
 }
 li {
     display: inline;
@@ -252,4 +254,9 @@ li {
 a {
     text-decoration: none;
     letter-spacing: 20px;
+}
+.center {
+    text-align: center;
+    border: 5px solid green;
+    padding: 10px;
 }
