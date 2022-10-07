@@ -260,3 +260,9 @@ a {
     border: 5px solid green;
     padding: 10px;
 }
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
