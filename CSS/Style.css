@@ -266,3 +266,12 @@ a {
     margin-right: auto;
     width: 40%;
 }
+footer {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+    font-style: italic;
+    font-family: sans-serif;
+}
