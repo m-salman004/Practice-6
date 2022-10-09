@@ -275,3 +275,12 @@ footer {
     font-style: italic;
     font-family: sans-serif;
 }
+button {
+    background-color: royalblue;
+    color: whitesmoke;
+    margin: auto;
+    width: 20%;
+}
+button:hover  {
+    background-color: green;
+}
