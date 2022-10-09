@@ -275,6 +275,9 @@ footer {
     font-style: italic;
     font-family: sans-serif;
 }
+input:focus {
+    background-color: rosybrown;
+  }
 button {
     background-color: royalblue;
     color: whitesmoke;
