@@ -287,3 +287,9 @@ button {
 button:hover  {
     background-color: green;
 }
+.firstLetter::first-letter {
+    background-color: royalblue;
+    font-size: xx-large;
+    font-style: italic;
+    font-family: sans-serif;
+}
