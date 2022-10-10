@@ -31,4 +31,6 @@ li a, .dropbtn {
     padding: 14px 16px;
     text-decoration: none;
   }
- 
+  li.dropdown {
+    display: inline-block;
+  }
