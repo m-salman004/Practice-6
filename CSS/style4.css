@@ -49,4 +49,6 @@ li a, .dropbtn {
     display: block;
     text-align: left;
   }
-   
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }      
