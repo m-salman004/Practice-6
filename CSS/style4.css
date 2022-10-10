@@ -3,4 +3,9 @@ body {
 }
 ul {
     list-style-type: none;
+
+}
+ul
+li {
+    display: inline;
 }
