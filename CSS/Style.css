@@ -202,10 +202,10 @@ table {
 .z-index {
     position: absolute;
 }
-img {
+/* img {
     position: absolute;
     z-index: -100;
-  }
+  } */
 #over-flow {
     text-align: center;
 }
@@ -260,12 +260,12 @@ a {
     border: 5px solid green;
     padding: 10px;
 }
-.img-center {
+/* .img-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-}
+} */
 footer {
     background-color: royalblue;
     color: white;
@@ -303,4 +303,7 @@ h1::before {
 ::selection {
     background-color: green;
     color: white;
+}
+img {
+    opacity: 0.2;
 }
