@@ -293,3 +293,6 @@ button:hover  {
     font-style: italic;
     font-family: sans-serif;
 }
+h1::before {
+    content: "CSS";
+}
