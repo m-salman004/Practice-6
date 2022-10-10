@@ -246,11 +246,11 @@ img {
     margin: auto;
 
 }
-li {
+/* li {
     display: inline;
     font-size: 20px;
     padding: 20px;   
-} 
+}  */
 a {
     text-decoration: none;
     letter-spacing: 20px;
@@ -295,4 +295,8 @@ button:hover  {
 }
 h1::before {
     content: "CSS";
+}
+::marker {
+    color: rgb(230, 126, 0);
+    font-size: 20px;
 }
