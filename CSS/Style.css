@@ -310,3 +310,8 @@ img{
 img:hover {
     opacity: 1;
 }
+a [target] {
+    text-decoration: none;
+    background-color: royalblue;
+    color: wheat;
+}
