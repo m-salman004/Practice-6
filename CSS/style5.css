@@ -8,6 +8,7 @@ input[type=text], select {
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
+  border: 1px solid lightgrey;
 }
 input[type=password] {
     width: 100%;
@@ -15,7 +16,7 @@ input[type=password] {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
-
+    border: 1px solid lightgrey;
 
 }
 input[type=date] {
@@ -24,4 +25,5 @@ input[type=date] {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
+    border: 1px solid lightgrey;
 }
