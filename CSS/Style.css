@@ -327,6 +327,6 @@ a [target] {
     text-align: right;
 }
 p {
-    color: rosybrown;
-    text-align: left;
+    color: rgb(180, 139, 139) !important;
+    text-align: left !important;
 }
