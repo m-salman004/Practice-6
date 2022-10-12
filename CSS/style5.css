@@ -47,3 +47,6 @@ div {
     background-color: rgb(234, 234, 234);
     padding: 20px;
 }
+fieldset {
+    border: 10px solid rgb(167, 159, 159);
+}
