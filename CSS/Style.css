@@ -315,6 +315,6 @@ a [target] {
     background-color: royalblue;
     color: wheat;
 }
-[title ~= pineapple] {
+[title ~= tree] {
     border: 10px solid royalblue;
 }
