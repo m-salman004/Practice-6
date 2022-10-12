@@ -315,3 +315,6 @@ a [target] {
     background-color: royalblue;
     color: wheat;
 }
+[title ~= flower] {
+    border: 10px solid royalblue;
+}
