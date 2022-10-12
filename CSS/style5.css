@@ -2,19 +2,21 @@ h1,
 h2 {
     text-align: center;
 }
-input[type=text] {
+input[type=text], select {
     width: 100%;
-    display: inline-block;
+  display: inline-block;
+  padding: 12px 20px;
+  margin: 8px 0;
 }
 input[type=password] {
     width: 100%;
     display: inline-block;
+    padding: 12px 20px;
+    margin: 8px 0;
 }
 input[type=date] {
     width: 100%;
     display: inline-block;
-}
-input[type=country] {
-    width: 100%;
-    display: inline-block;
+    padding: 12px 20px;
+    margin: 8px 0;
 }
