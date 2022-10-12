@@ -217,11 +217,11 @@ table {
     overflow: auto;
     margin-left: 555px
 }
-.a {
+/* .a {
     background-color: royalblue;
     display: inline;
     border: 5px solid black;
-}
+} */
 .b {
     background-color: royalblue;
     display: inline-block;
@@ -253,7 +253,7 @@ table {
 }  */
 a {
     text-decoration: none;
-    letter-spacing: 20px;
+    /* letter-spacing: 20px; */
 }
 .center {
     text-align: center;
