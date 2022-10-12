@@ -318,3 +318,15 @@ a [target] {
 [title ~= tree] {
     border: 10px solid royalblue;
 }
+#demo {
+    color: blueviolet;
+    text-align: center;
+}
+.test {
+    color: aqua;
+    text-align: right;
+}
+p {
+    color: rosybrown;
+    text-align: left;
+}
