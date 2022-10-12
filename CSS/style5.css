@@ -2,3 +2,19 @@ h1,
 h2 {
     text-align: center;
 }
+input[type=text] {
+    width: 100%;
+    display: inline-block;
+}
+input[type=password] {
+    width: 100%;
+    display: inline-block;
+}
+input[type=date] {
+    width: 100%;
+    display: inline-block;
+}
+input[type=country] {
+    width: 100%;
+    display: inline-block;
+}
