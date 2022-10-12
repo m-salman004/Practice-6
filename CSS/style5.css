@@ -50,3 +50,8 @@ div {
 fieldset {
     border: 10px solid rgb(167, 159, 159);
 }
+strong {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: larger;
+}
