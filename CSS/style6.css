@@ -15,13 +15,16 @@ header {
     background-color: #3d405b;
     height: 80px;
     color: white;
+    text-align: center;
 }
 main {
     background-color: antiquewhite;
     min-height: calc(100% - 130px);
+    text-align: center;
 }
 footer {
     background-color: #e07a5f;
     height: 60px;
     color:white;
+    text-align: center;
 }
