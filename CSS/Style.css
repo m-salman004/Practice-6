@@ -333,5 +333,5 @@ p {
 #grade1 {
     height: 200px;
     background-color: red;
-    background-image: linear-gradient(red, yellow);
+    background-image: linear-gradient( red, yellow, blue);
 }
