@@ -16,6 +16,10 @@ header {
     height: 80px;
     color: white;
 }
+main {
+    background-color: antiquewhite;
+    min-height: calc(100% - 130px);
+}
 footer {
     background-color: #e07a5f;
     height: 60px;
