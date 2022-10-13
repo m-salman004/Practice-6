@@ -330,3 +330,8 @@ p {
     color: rgb(180, 139, 139) !important;
     text-align: left !important;
 }
+#grade1 {
+    height: 200px;
+    background-color: red;
+    background-image: linear-gradient(red, yellow);
+}
