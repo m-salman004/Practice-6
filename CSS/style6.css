@@ -1,7 +1,11 @@
-body{
+*{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+body {
+    background-color: lightgray;
+    height: 100vh;
 }
 .container {
     width: 70%;
@@ -10,8 +14,10 @@ body{
 header {
     background-color: #3d405b;
     height: 80px;
+    color: white;
 }
 footer {
     background-color: #e07a5f;
     height: 60px;
+    color:white;
 }
