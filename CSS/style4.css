@@ -54,3 +54,6 @@ li a, .dropbtn {
   .dropdown:hover .dropdown-content {
     display: block;
   } 
+.top-nav {
+  overflow: hidden;
+}
