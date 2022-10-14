@@ -57,3 +57,6 @@ li a, .dropbtn {
 .top-nav {
   overflow: hidden;
 }
+.top-nav a {
+  float: left;
+}
