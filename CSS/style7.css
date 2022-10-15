@@ -18,4 +18,15 @@ h1 {
     text-align: center;
     
 }
-
+@media screen and (max-width: 900px) {
+    .col {
+        width: 50%;
+    }
+    
+}
+@media screen and (max-width: 600px) {
+    .col {
+        width: 100%;
+    }
+    
+}
