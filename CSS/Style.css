@@ -335,7 +335,7 @@ p {
     background-color: red;
     background-image: repeating-linear-gradient(to bottom right, red, yellow, blue);
 }
-@media screen and (max-width: 900px) and (min-width: 500px) {
+@media screen and (max-width: 900px) and (min-width: 500px), (min-width: 1100px) {
    p.examples {
         font-size: 100px;
         background-color: lightgray;
