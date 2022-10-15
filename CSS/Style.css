@@ -335,3 +335,13 @@ p {
     background-color: red;
     background-image: repeating-linear-gradient(to bottom right, red, yellow, blue);
 }
+@media screen and (max-width: 900px) and (min-width: 500px) {
+   p.examples {
+        font-size: 100px;
+        background-color: lightgray;
+        color: white;
+        border: 10px solid lightsalmon;
+        font-weight: 300;
+        font-family: sans-serif;
+    }   
+}

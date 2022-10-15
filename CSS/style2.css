@@ -1,16 +1,18 @@
 * {
     box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
 }
-.boxes {
+/* .boxes {
    padding-left: 115px;
-}
-.box {
+} */
+/* .box {
     float: left;
     width: 25%;
-    padding: 50px;
-    border: 5px solid royalblue;
-    margin: 20px;
-}
+    padding: 20px;
+    border: 1px solid lightcoral;
+} */
+h2,
 h3,
 p {
     text-align: center;
@@ -21,4 +23,14 @@ p {
     float: right;
 
     margin-left:15px;
+} */
+/* @media screen and (max-width: 900px) {
+    .box {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .box {
+        width: 100%;
+    }
 } */
