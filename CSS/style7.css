@@ -8,5 +8,8 @@ h1 {
     background-color: lightgray;
     color: white;
 }
+.col {
+    float: left;
+    width: 25%;
 
 
