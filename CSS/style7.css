@@ -27,6 +27,10 @@ h1 {
     line-height: 120px;
     
 }
+.col:hover {
+    background-color: darkgray;
+    color: white;
+}
 @media screen and (max-width: 900px) {
     .col {
         width: 50%;
