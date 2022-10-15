@@ -5,13 +5,15 @@
 }
 /* .boxes {
    padding-left: 115px;
-} */
-/* .box {
+}  */
+ .box {
     float: left;
     width: 25%;
-    padding: 20px;
+    padding: 10px;
     border: 1px solid lightcoral;
-} */
+    margin-bottom: 12px;
+    /* margin-left: 12px; */
+ }
 h2,
 h3,
 p {
@@ -24,7 +26,7 @@ p {
 
     margin-left:15px;
 } */
-/* @media screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
     .box {
         width: 50%;
     }
@@ -33,4 +35,4 @@ p {
     .box {
         width: 100%;
     }
-} */
+}
