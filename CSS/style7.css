@@ -11,5 +11,8 @@ h1 {
 .col {
     float: left;
     width: 25%;
+    padding: 0 16px;
+    border: 5px solid rosybrown;
+}
 
 
