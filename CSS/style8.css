@@ -10,3 +10,15 @@ h1 {
     font-size: larger;
     height: 50px;
 }
+.flex-container {
+
+}
+.box {
+    width: 100px;
+    background-color: aquamarine;
+    color: white;
+    padding: 0 20px;
+    margin: 10px ;
+    line-height: 100px;
+    text-align: center;
+}
