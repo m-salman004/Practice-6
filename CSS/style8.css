@@ -21,7 +21,7 @@ h1 {
     justify-content: flex-start;
     align-items: flex-start; */
     /* flex-direction:column ; */
-    justify-content: center;
+    justify-content: flex-end;
 
 }
 .box {
