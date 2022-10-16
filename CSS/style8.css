@@ -24,6 +24,7 @@ h1 {
     justify-content: center ;
     height: 50vh;
     align-items: center;
+    flex-wrap: wrap;
 }
 .box {
     width: 100px;
