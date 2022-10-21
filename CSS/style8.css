@@ -25,7 +25,9 @@ h1 {
     /* height: 50vh; */
     align-items: center;
     flex-wrap: wrap;
-    justify-content: space-between;
+    order: 1;
+    /* justify-content: space-between; */
+    flex-direction: row-reverse;
 }
 .box {
     width: 100px;
@@ -35,4 +37,20 @@ h1 {
     margin: 10px ;
     line-height: 100px;
     text-align: center;
+}
+.flexContainer  {
+    background-color: rgb(0, 255, 89);
+    display: flex;
+    /* Default Properties 
+    flex-direction: row ;
+    justify-content: flex-start;
+    align-items: flex-start; */
+    /* flex-direction: row-reverse ; */
+    justify-content: center ;
+    /* height: 50vh; */
+    align-items: center;
+    flex-wrap: wrap;
+    order: 2;
+    /* justify-content: space-between; */
+    flex-direction: row-reverse;
 }
