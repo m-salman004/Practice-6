@@ -18,3 +18,6 @@ background: linear-gradient(to right, #4ca2cd, #67B26F); /* W3C, IE 10+/ Edge, F
 .accordion-button{
     background-color: #001524 !important;
 }
+.accordion-item {
+    background-color: #1b263b !important;
+}
